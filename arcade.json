@@ -1,0 +1,28 @@
+{
+	"name": "Camera input",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "evo8xeskk0y",
+	"viewport-width": 640,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r388.2",
+	"ife": false,
+	"used-plugins": [
+		"UserMedia",
+		"Button",
+		"Text",
+		"Browser",
+		"Sprite",
+		"List",
+		"GameRecorder"
+	],
+	"used-behaviors": [
+		"Sin"
+	]
+}
